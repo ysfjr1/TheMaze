@@ -1,2 +1,2 @@
-# alx-maze_project
-This is the alternative 'Maze project' for the 'Research &amp; Project approval (Part 1)' project in the ALX Software Engineering program.
+Alx The Maze Project
+The goal of this project is to create a game in using raycasting!
